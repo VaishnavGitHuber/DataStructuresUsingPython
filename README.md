@@ -8,3 +8,4 @@ This is a repository for DataStructures using python.100 days challenge
 * Counting the Number of Nodes in a Linked List
 ### DAY 3: 20/04/2024 
 * creating a Linked List with functinality deleting the Node at the first and end of the List 
+* Leetcode 26: removing duplilicates from the sorted array
